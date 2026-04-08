@@ -78,7 +78,7 @@ Resposta retorna ao usuário
 ---
 
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 🔹 Backend
 Python 🐍
 Whisper (OpenAI)
@@ -93,7 +93,7 @@ API do ChatGPT
 ---
 
 
-⚙️ Funcionalidades
+## ⚙️ Funcionalidades
 ✅ Captura de áudio via navegador
 ✅ Transcrição automática de fala
 ✅ Processamento com IA
@@ -104,21 +104,15 @@ API do ChatGPT
 ---
 
 
-▶️ Como Executar o Projeto
-1. Clone o repositório
-git clone https://github.com/seu-usuario/seu-repo.git
-2. Acesse o diretório
-cd seu-repo
-3. Instale as dependências
-pip install -r requirements.txt
-4. Execute o servidor
-uvicorn main:app --reload
+## ▶️ Como Executar o Projeto
+Basta abrir o link do Google Colab disponibilizado, e boa sorte :)
+https://colab.research.google.com/drive/1x21L3L86Fe_UWu6DUBmqx1HfR9pCovEg#scrollTo=xVJe979lA_8D
 
 ---
 
 
 🧪 Como Testar
-Abra o frontend no navegador
+Abra o https://colab.research.google.com/drive/1x21L3L86Fe_UWu6DUBmqx1HfR9pCovEg#scrollTo=xVJe979lA_8D  no navegador
 Permita acesso ao microfone
 Grave sua voz
 Aguarde o processamento
@@ -127,7 +121,7 @@ Ouça a resposta gerada
 ---
 
 
-📊 Estrutura do Projeto
+## 📊 Estrutura do Projeto
 📁 project/
  ├── frontend/
  │   └── audio_capture.js
@@ -143,7 +137,7 @@ Ouça a resposta gerada
 ---
 
 
-🔒 Segurança e Boas Práticas
+## 🔒 Segurança e Boas Práticas
 Validação de entrada de dados
 Separação de responsabilidades (services)
 Estrutura modular escalável
@@ -152,7 +146,7 @@ Preparado para autenticação futura
 ---
 
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 
 José Amaury
 📧 amaury345.ja@gmail.com
